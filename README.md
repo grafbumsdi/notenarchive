@@ -72,3 +72,5 @@ https://tesseract.projectnaptha.com/
 https://www.electronjs.org/docs/tutorial/boilerplates-and-clis --> https://github.com/electron-react-boilerplate/electron-react-boilerplate
 
 eher für Gitarren/Bands etc: https://www.songbookplus.com/
+
+https://scan-score.com/ueber-uns/
